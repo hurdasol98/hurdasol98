@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?text=Hurdasol98&type=rect&fontColor=555&&color=cdd)
+
+
 ![swift](https://img.shields.io/badge/-swift-orange)            ![CSS](https://img.shields.io/badge/-css-blue)  ![Html](https://img.shields.io/badge/-html-red)   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  ![C](https://img.shields.io/badge/-C-gray)  ![Python](https://img.shields.io/badge/-Python-darkblue)
+
+
 ![hurdasol98's github stats](https://github-readme-stats.vercel.app/api?username=hurdasol98&show_icons=true)
 
 
